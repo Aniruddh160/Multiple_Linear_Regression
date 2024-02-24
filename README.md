@@ -16,4 +16,3 @@
 
 8. **Visualization**: Visualized the actual versus predicted wine quality using scatter plots from Matplotlib. This visualization aids in understanding the model's predictive capabilities and identifying any patterns or discrepancies between actual and predicted values.
 
-Overall, your multiple linear regression model serves as a tool to predict wine quality based on various features, providing valuable insights for wine quality assessment and potentially informing production or quality improvement strategies.
